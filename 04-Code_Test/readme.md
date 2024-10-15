@@ -71,6 +71,11 @@
             return new_color
         except Exception as e:
             return str(e)
+
+
+    if __name__ == "__main__":
+        file_path = "index.html"  # Update this to your actual file path
+        change_background_color(file_path)
     ```
 
 2. **Create `index.html`:**

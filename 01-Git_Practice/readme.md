@@ -41,7 +41,7 @@ Learn the basics of Git, create a repository, make changes, and submit a pull re
 ### 3. Making Changes 
 - **Create a new file called hello_world.txt and add some content:**
   ```bash
-  echo "Hello, World!" > hello_world.txt
+  echo 'Hello, World!' > hello_world.txt
   ```
 - **Add the new file to the staging area:** 
   ```bash
@@ -83,6 +83,7 @@ Learn the basics of Git, create a repository, make changes, and submit a pull re
 
 - **Delete the feature branch (optional):**
   ```bash
+  git checkout main
   git branch -d feature-branch
   git push origin --delete feature-branch
   ```

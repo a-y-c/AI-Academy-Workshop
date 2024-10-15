@@ -6,6 +6,7 @@ The goal of this exercise is to practice modular programming in Python by creati
 ## Instructions
 
 1. **Create a Module:**
+
    - Create a new Python file named `math_operations.py`.
    - In this file, define the following functions:
      - `add(a, b)`: Returns the sum of `a` and `b`.
@@ -14,6 +15,7 @@ The goal of this exercise is to practice modular programming in Python by creati
      - `divide(a, b)`: Returns the quotient of `a` divided by `b`.
 
 2. **Create Another Module:**
+
    - Create another Python file named `geometry.py`.
    - In this file, define the following functions:
      - `area_of_circle(radius)`: Returns the area of a circle given its `radius`.
@@ -22,6 +24,7 @@ The goal of this exercise is to practice modular programming in Python by creati
      - `perimeter_of_rectangle(length, width)`: Returns the perimeter of a rectangle given its `length` and `width`.
 
 3. **Create a Main Program:**
+
    - Create a new Python file named `main.py`.
    - In this file, import the functions from `math_operations.py` and `geometry.py`.
    - Use these functions to perform the following tasks:
