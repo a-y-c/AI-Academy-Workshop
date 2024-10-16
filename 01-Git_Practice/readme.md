@@ -12,13 +12,13 @@ Learn the basics of Git, create a repository, make changes, and submit a pull re
 ### 1. Setup and Initialization 
 - **Clone the repository to your local machine:**
   ```bash
-  git clone https://bitbucket.org/blbitbucket01/software-engineering-ai/src/main/
+  git clone https://bitbucket.org/yourpersonalorg/software-engineering-ai/src/main/
   ```
   ### Group Repos: 
-  - https://bitbucket.org/blbitbucket01/AI-Academy-Group1/src/main/
-  - https://bitbucket.org/blbitbucket01/AI-Academy-Group2/src/main/
-  - https://bitbucket.org/blbitbucket01/AI-Academy-Group3/src/main/
-  - https://bitbucket.org/blbitbucket01/AI-Academy-Group4/src/main/
+  - https://bitbucket.org/yourpersonalorg/AI-Academy-Group1/src/main/
+  - https://bitbucket.org/yourpersonalorg/AI-Academy-Group2/src/main/
+  - https://bitbucket.org/yourpersonalorg/AI-Academy-Group3/src/main/
+  - https://bitbucket.org/yourpersonalorg/AI-Academy-Group4/src/main/
 
 
 - **Create a new repository on GitHub:** (if not using bitbucket)

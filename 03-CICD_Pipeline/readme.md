@@ -6,14 +6,14 @@
 
   - Clone the repository to your local machine.
     ```bash
-    git clone https://bitbucket.org/blbitbucket01/software-engineering-ai/src/main/
+    git clone https://bitbucket.org/yourpersonalorg/software-engineering-ai/src/main/
     ```
 
     ### Group Repos: 
-    - https://bitbucket.org/blbitbucket01/AI-Academy-Group1/src/main/
-    - https://bitbucket.org/blbitbucket01/AI-Academy-Group2/src/main/
-    - https://bitbucket.org/blbitbucket01/AI-Academy-Group3/src/main/
-    - https://bitbucket.org/blbitbucket01/AI-Academy-Group4/src/main/
+    - https://bitbucket.org/yourpersonalorg/AI-Academy-Group1/src/main/
+    - https://bitbucket.org/yourpersonalorg/AI-Academy-Group2/src/main/
+    - https://bitbucket.org/yourpersonalorg/AI-Academy-Group3/src/main/
+    - https://bitbucket.org/yourpersonalorg/AI-Academy-Group4/src/main/
 
 ### Step 1: Set Up the Pipeline File 
 1. **Create `bitbucket-pipelines.yml`:**
